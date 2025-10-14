@@ -51,7 +51,7 @@ Belum ada source code untuk saat ini.
 
 ## 6. Hasil dan Pembahasan
 ![Hasil Eksekusi](screenshot/fork-repository.png)
-
+![Commit](screenshot/commit.png)
 ---
 
 ## 7. Jawaban Pertanyaan
@@ -75,8 +75,10 @@ Dari praktikum ini dapat disimpulkan bahwa kriptografi merupakan fondasi utama d
 ---
 
 ## 10. Commit Log
+```
 commit week1-intro-cia
 Author: Laili Meifa Ayuningtias <lailimeifa430@gmail.com>
 Date:   2025-10-07
 
     week1-intro-cia: Meringkas sejarah kriptografi dan CIA.
+```
