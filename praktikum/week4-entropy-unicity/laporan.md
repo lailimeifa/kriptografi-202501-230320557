@@ -77,12 +77,10 @@ Hasil eksekusi program Caesar Cipher:
 ![Hasil Eksekusi](screenshots/hasil_eksekusi.png)
 ---
 
-## 7. Jawaban Pertanyaan
-(Jawab pertanyaan diskusi yang diberikan pada modul.  
+## 7. Jawaban Pertanyaan  
 - Pertanyaan 1: Nilai entropi menunjukkan tingkat ketidakpastian atau banyaknya kemungkinan kunci yang bisa digunakan; semakin tinggi entropinya, semakin sulit kunci ditebak sehingga sistem lebih aman. 
 - Pertanyaan 2: Unicity distance penting karena menunjukkan jumlah ciphertext minimum yang dibutuhkan untuk menentukan kunci secara unik; semakin besar nilainya, semakin sulit cipher dipecahkan.
 - Pertanyaan 3: Brute force tetap menjadi ancaman karena meskipun algoritma kuat, jika kunci terlalu pendek atau implementasi tidak aman, penyerang masih bisa mencoba semua kemungkinan hingga menemukan kunci yang benar.
-)
 ---
 
 ## 8. Kesimpulan
