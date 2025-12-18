@@ -29,7 +29,6 @@ Cipher simetris seperti DES dan AES menggunakan satu kunci yang sama untuk enkri
 - Python 3.x  
 - Visual Studio Code / editor lain  
 - Git dan akun GitHub  
-- Library tambahan (misalnya pycryptodome, jika diperlukan)  
 
 ---
 
@@ -80,7 +79,7 @@ print("Kunci bersama Bob   :", shared_secret_B)
 ---
 
 ## 8. Kesimpulan
-(Tuliskan kesimpulan singkat (2–3 kalimat) berdasarkan percobaan.  )
+Diffie-Hellman adalah protokol kriptografi yang memungkinkan dua pihak membentuk kunci rahasia bersama melalui saluran publik dengan memanfaatkan bilangan prima dan prinsip logaritma diskrit. Keamanan protokol ini bergantung pada sulitnya menghitung kunci rahasia dari kunci publik, namun tanpa autentikasi tambahan Diffie-Hellman tetap rentan terhadap serangan Man-in-the-Middle.
 
 ---
 
