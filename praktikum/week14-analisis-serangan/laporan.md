@@ -71,7 +71,7 @@ Berdasarkan analisis studi kasus, penggunaan algoritma kriptografi yang sudah us
 
 ## 10. Commit Log
 ```
-commit week14-analisis-serangann
+commit week14-analisis-serangan
 Author: Laili Meifa Ayuningtias <lailimeifa430@gmaio.com>
 Date:   2026-01-21
 
