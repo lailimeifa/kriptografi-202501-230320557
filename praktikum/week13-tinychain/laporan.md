@@ -127,7 +127,7 @@ Berdasarkan percobaan yang dilakukan, blockchain dapat dibangun dengan memanfaat
 ```
 commit week13-tinychain
 Author: Laili Meifa Ayuningtias <lailimeifa430@gmail.com>
-Date:   2025-09-20
+Date:   2026-01-21
 
     week13-tinychain: implementasi TinyChain Proof of Work (PoW) dan laporan
 ```
