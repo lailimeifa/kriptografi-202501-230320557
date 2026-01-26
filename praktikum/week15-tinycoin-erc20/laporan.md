@@ -34,7 +34,7 @@ Keamanan smart contract ERC-20 sangat bergantung pada penulisan kode yang benar 
 ## 4. Langkah Percobaan
 1. Membuat file `TinyCoin` di folder `praktikum/week15-tinycoin-erc20/`
 2. Menyalin kode program dari panduan praktikum.
-3. Menjalankan program dengan perintah 
+3. Menjalankan program dengan perintah sesuai contoh
 4. Membuat laporan.md
 
 ---
