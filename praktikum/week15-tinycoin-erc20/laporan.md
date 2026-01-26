@@ -2,7 +2,7 @@
 Minggu ke-: 15  
 Topik: Proyek Kelompok - TinyCoin ERC20
 Nama: Laili Meifa Ayuningtias  
-NIM: 230320557  
+NIM : 230320557  
 Kelas: 5DSRA  
 
 ---
